@@ -9,7 +9,7 @@ env:
   LOCATION: germanywestcentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: debe4a53-f6d3-4f78-b09b-0939d548d127
-  WEBAPP-NAME: devops-webapp-eastus2-58100090
+  WEBAPP-NAME: devops-webapp-germanywestcentral-58100090
 
 jobs:
   #Build, test and publish .net web project in repository
